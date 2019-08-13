@@ -1,2 +1,7 @@
-# Making-Gene
-유전자 만들기 프로젝트입니다
+# Making-Gene 소개
+
+# Class Diagram
+
+
+# 사용 기술
+- C#
