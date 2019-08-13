@@ -1,7 +1,7 @@
-# Making-Gene 소개
+## Making-Gene 소개
 
-# Class Diagram
+## Class Diagram
 
 
-# 사용 기술
+## 사용 기술
 - C#
