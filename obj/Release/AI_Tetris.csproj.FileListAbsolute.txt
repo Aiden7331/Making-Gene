@@ -1,0 +1,38 @@
+C:\Users\Blanden\source\repos\AI_Tetris\AI_Tetris\bin\Release\AI_Tetris.exe.config
+C:\Users\Blanden\source\repos\AI_Tetris\AI_Tetris\bin\Release\AI_Tetris.exe
+C:\Users\Blanden\source\repos\AI_Tetris\AI_Tetris\bin\Release\AI_Tetris.pdb
+C:\Users\Blanden\source\repos\AI_Tetris\AI_Tetris\obj\Release\AI_Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Blanden\source\repos\AI_Tetris\AI_Tetris\obj\Release\AI_Tetris.Tetris_Map.resources
+C:\Users\Blanden\source\repos\AI_Tetris\AI_Tetris\obj\Release\AI_Tetris.Properties.Resources.resources
+C:\Users\Blanden\source\repos\AI_Tetris\AI_Tetris\obj\Release\AI_Tetris.csproj.GenerateResource.cache
+C:\Users\Blanden\source\repos\AI_Tetris\AI_Tetris\obj\Release\AI_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Blanden\source\repos\AI_Tetris\AI_Tetris\obj\Release\AI_Tetris.exe
+C:\Users\Blanden\source\repos\AI_Tetris\AI_Tetris\obj\Release\AI_Tetris.pdb
+C:\Users\Blanden\source\repos\AI_Tetris\AI_Tetris\obj\Release\AI_Tetris.form_help.resources
+C:\Users\Blanden\source\repos\AI_Tetris\AI_Tetris\obj\Release\AI_Tetris.form_set.resources
+C:\Users\Blanden\Desktop\테트리스에 적용한 유전알고리즘\소스코드\bin\Release\AI_Tetris.exe.config
+C:\Users\Blanden\Desktop\테트리스에 적용한 유전알고리즘\소스코드\bin\Release\AI_Tetris.exe
+C:\Users\Blanden\Desktop\테트리스에 적용한 유전알고리즘\소스코드\bin\Release\AI_Tetris.pdb
+C:\Users\Blanden\Desktop\테트리스에 적용한 유전알고리즘\소스코드\obj\Release\AI_Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Blanden\Desktop\테트리스에 적용한 유전알고리즘\소스코드\obj\Release\AI_Tetris.form_help.resources
+C:\Users\Blanden\Desktop\테트리스에 적용한 유전알고리즘\소스코드\obj\Release\AI_Tetris.form_set.resources
+C:\Users\Blanden\Desktop\테트리스에 적용한 유전알고리즘\소스코드\obj\Release\AI_Tetris.Tetris_Map.resources
+C:\Users\Blanden\Desktop\테트리스에 적용한 유전알고리즘\소스코드\obj\Release\AI_Tetris.Properties.Resources.resources
+C:\Users\Blanden\Desktop\테트리스에 적용한 유전알고리즘\소스코드\obj\Release\AI_Tetris.csproj.GenerateResource.cache
+C:\Users\Blanden\Desktop\테트리스에 적용한 유전알고리즘\소스코드\obj\Release\AI_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Blanden\Desktop\테트리스에 적용한 유전알고리즘\소스코드\obj\Release\AI_Tetris.exe
+C:\Users\Blanden\Desktop\테트리스에 적용한 유전알고리즘\소스코드\obj\Release\AI_Tetris.pdb
+C:\Users\Blanden\source\repos\Genetic_Algorithm\Genetic_Algorithm\bin\Release\AI_Tetris.exe.config
+C:\Users\Blanden\source\repos\Genetic_Algorithm\Genetic_Algorithm\bin\Release\AI_Tetris.exe
+C:\Users\Blanden\source\repos\Genetic_Algorithm\Genetic_Algorithm\bin\Release\AI_Tetris.pdb
+C:\Users\Blanden\source\repos\Genetic_Algorithm\Genetic_Algorithm\obj\Release\AI_Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Blanden\source\repos\Genetic_Algorithm\Genetic_Algorithm\obj\Release\AI_Tetris.form_help.resources
+C:\Users\Blanden\source\repos\Genetic_Algorithm\Genetic_Algorithm\obj\Release\AI_Tetris.form_set.resources
+C:\Users\Blanden\source\repos\Genetic_Algorithm\Genetic_Algorithm\obj\Release\AI_Tetris.Tetris_Map.resources
+C:\Users\Blanden\source\repos\Genetic_Algorithm\Genetic_Algorithm\obj\Release\AI_Tetris.Properties.Resources.resources
+C:\Users\Blanden\source\repos\Genetic_Algorithm\Genetic_Algorithm\obj\Release\AI_Tetris.csproj.GenerateResource.cache
+C:\Users\Blanden\source\repos\Genetic_Algorithm\Genetic_Algorithm\obj\Release\AI_Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Blanden\source\repos\Genetic_Algorithm\Genetic_Algorithm\obj\Release\AI_Tetris.exe
+C:\Users\Blanden\source\repos\Genetic_Algorithm\Genetic_Algorithm\obj\Release\AI_Tetris.pdb
+C:\Users\Blanden\source\repos\Genetic_Algorithm\Genetic_Algorithm\obj\Release\AI_Tetris.form_calcM.resources
+C:\Users\Blanden\source\repos\Genetic_Algorithm\Genetic_Algorithm\obj\Release\AI_Tetris.form_pattern.resources
