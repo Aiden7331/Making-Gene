@@ -158,7 +158,7 @@ namespace AI_Tetris
             return Weight;
         }
 
-        /* 배치했을 경우의 평균높이를 계산. 휴리스틱스 기법 */
+        /* 배치했을 경우의 평균높이를 계산. */
         public void Evaluate_Height(int Order)
         {
             Heuristic_Height = new double[Width];
