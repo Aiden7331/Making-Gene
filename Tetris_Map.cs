@@ -113,7 +113,7 @@ namespace AI_Tetris
         private void Moving_down(bool Decision) // true means that time pass, false means that block completely down.
         {
             if (Moving)
-                while (Moving != true) ;//busy waiting.
+                while (Moving != true) ;
             else
                 Moving = true;
 
@@ -131,7 +131,6 @@ namespace AI_Tetris
                     scoreWriting = true;
                     FLAG_DRAW_MAP = true;
                     Control_Moving.Stop();
-                    //while (scoreWriting != false) ;//busy waiting.
                 }
                 else
                 {
@@ -147,7 +146,7 @@ namespace AI_Tetris
         private void Moving_down(bool Decision, bool fast) // true means that time pass, false means that block completely down.
         {
             if (Moving)
-                while (Moving == true) ;//busy waiting
+                while (Moving == true) ;
             else
                 Moving = true;
 
@@ -165,7 +164,6 @@ namespace AI_Tetris
                     scoreWriting = true;
                     FLAG_DRAW_MAP = true;
                     Control_Moving.Stop();
-                    //while (scoreWriting != false) ;//busy waiting.
                 }
                 else
                 {
